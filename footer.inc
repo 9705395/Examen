@@ -1,4 +1,4 @@
-</td>
+d</td>
  <td width="170">
   <center> 
   <?php include("googleads.inc"); ?>

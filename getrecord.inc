@@ -1,4 +1,4 @@
-<?php
+d<?php
 // from: http://php.thedemosite.co.uk/
 // version 1.2
 $dbc = dbc::instance();

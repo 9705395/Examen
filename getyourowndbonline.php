@@ -1,4 +1,4 @@
-<?php
+d<?php
 $page_title="Get your own MySQL database online";
 $page_keywords="MySQL hosting, database online";
 $page_desc="Get your db online using PHP and MySQL";
