@@ -39,6 +39,7 @@ using &lt;?php include(&quot;afilename.inc&quot;); ?&gt;<font SIZE="1" COLOR="#0
 </div>
 <p align="center"><br>
 <contact></contact>
+<overzichten></overzichten>
 </p>
 <p align="center"><strong>footer.inc</strong></p>
 <div align="left" style="border:solid 2px #0000FF; background:#EAEDFC; color:#000000; padding:2px; width:800px; height:300px; overflow:auto;">
