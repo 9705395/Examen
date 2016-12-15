@@ -1,4 +1,4 @@
-<?php
+d<?php
 if (!isset($page_title)) $page_title="PHP code and online MySQL database - example username password";
 if (!isset($page_keywords)) $page_keywords="free PHP code, mysql sql";
 if (!isset($page_desc)) $page_desc="FREE example PHP code and a MySQL database";

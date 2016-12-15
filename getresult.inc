@@ -1,4 +1,4 @@
-<?php
+d<?php
 // from: http://php.thedemosite.co.uk/
 // version 1.2
 if (isset($_POST['password'])) // if the password is set then the form has been submitted on login.php page
